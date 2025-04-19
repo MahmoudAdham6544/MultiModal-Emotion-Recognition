@@ -2,3 +2,5 @@ ipykernel
 python-dotenv
 opencv
 librosa
+pandas
+torch

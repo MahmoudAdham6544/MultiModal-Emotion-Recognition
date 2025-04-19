@@ -1,1 +1,2 @@
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196391
+https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
